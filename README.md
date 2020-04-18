@@ -1,1 +1,1 @@
-# Sample
+# Sample LTC Project
